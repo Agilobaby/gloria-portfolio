@@ -1,5 +1,5 @@
 
-export const API_URL = 'http://localhost:5000/api';
+export const API_URL = 'https://gloria-portfolio-production.up.railway.app/api';
 export const CONTACT_EMAIL = "ayirogloria@gmail.com";
 
 // Using lh3.googleusercontent.com/d/ is often more reliable for direct embedding than drive.google.com/uc
